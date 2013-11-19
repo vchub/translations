@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: snicker\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: az\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: app/index.html
+msgid "{{l.title()}}"
+msgstr ""
+
+#: app/index.html
+msgid "Контакты"
+msgstr "Contact Us"
+
+#: app/index.html
+msgid "Зарегистрировать код"
+msgstr "Register promo-code"
+
+#: app/index.html
+msgid ""
+"Срок проведения акции с 15 сентября по 15 декабря 2013 года<br>\t\t"
+"\tИнформацию об акции вы можете узнать по бесплатной горячей линии: 8 800 "
+"070 00 32"
+msgstr ""
+
+#: app/index.html
+msgid "Поделиться:"
+msgstr "Share"
+
+#: app/index.html
+msgid "Обратная связь"
+msgstr "Contact Us"
+
+#: app/index.html
+msgid "FAQ"
+msgstr ""
+
+#: app/index.html
+msgid "Юридические вопросы"
+msgstr "Legal Terms"
+
+#: app/index.html
+msgid "Политика конфиденциальности"
+msgstr "Confidentiality"
+
+#: app/index.html
+msgid "Компания MARS в СНГ"
+msgstr ""
+
+#: app/views/main.html
+#, fuzzy
+msgid "Зарегистрируй код"
+msgstr "Register"
+
+#: app/scripts/controllers/app.js
+msgid "Главная"
+msgstr "Main"
+
+#: app/scripts/controllers/app.js
+msgid "Призы"
+msgstr "Prizes"
+
+#: app/scripts/controllers/app.js
+msgid "Правила"
+msgstr "Rules"
+
+#: app/scripts/controllers/app.js
+msgid "Победители"
+msgstr "Winners"
+
+#: app/scripts/controllers/prizes.js
+msgid "ipad"
+msgstr "iPad"
+
+#: app/scripts/controllers/prizes.js
+msgid "Бензин"
+msgstr "Gas"
+
+#: app/scripts/controllers/prizes.js
+msgid "snickers"
+msgstr "Bars box"
+
+#: app/scripts/controllers/prizes.js
+msgid "Футболка"
+msgstr "T-Shirt"

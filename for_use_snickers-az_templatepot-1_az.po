@@ -1,0 +1,374 @@
+#
+# Translators:
+# sup.bdrd <sup.bdrd@gmail.com>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: snickers-az\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-11-19 20:32+0300\n"
+"Last-Translator: sup.bdrd <sup.bdrd@gmail.com>\n"
+"Language-Team: Azerbaijani (http://www.transifex.com/projects/p/snickers-az/"
+"language/az/)\n"
+"Language: az\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: app/index.html app/scripts/controllers/app.js
+msgid "Главная"
+msgstr ""
+
+#: app/index.html
+msgid "Вопросы"
+msgstr "questions"
+
+#: app/index.html app/views/main.html app/views/rules.html
+#: app/views/vref/status.html
+msgid "Зарегистрировать код"
+msgstr "Register code"
+
+#: app/index.html
+msgid "Поделиться:"
+msgstr ""
+
+#: app/index.html
+msgid "Срок проведения лотереи: с 1 декабря 2013 г. по 31 января 2014 г."
+msgstr ""
+
+#: app/index.html
+msgid ""
+"Информацию по лотерее Вы можете узнать по телефону горячей линии "
+"(994)-555-058-058"
+msgstr ""
+
+#: app/index.html
+msgid "(звонок платный на всей территории Азербайджанской Республики)"
+msgstr ""
+
+#: app/index.html
+msgid "Обратная связь"
+msgstr ""
+
+#: app/index.html
+msgid "FAQ"
+msgstr ""
+
+#: app/index.html
+msgid "Юридические вопросы"
+msgstr ""
+
+#: app/index.html
+msgid "Политика конфиденциальности"
+msgstr ""
+
+#: app/index.html
+msgid "Компания MARS в СНГ"
+msgstr ""
+
+#: app/views/contactus.html
+msgid "Фамилия"
+msgstr ""
+
+#: app/views/contactus.html app/views/vref/Winners.html
+msgid "Имя"
+msgstr ""
+
+#: app/views/contactus.html
+msgid "Мобильный телефон, по которому с вами можно связаться"
+msgstr ""
+
+#: app/views/contactus.html
+msgid ""
+"(пожалуйста, отправляйте вопросы с электронного адреса, который "
+"регистрировали в лотерее)"
+msgstr ""
+
+#: app/views/contactus.html
+#, fuzzy
+msgid "Ваш вопрос"
+msgstr "questions"
+
+#: app/views/main.html
+#, fuzzy
+msgid "Количество зарегистрированных кодов"
+msgstr "Register code"
+
+#: app/views/prizes.html app/views/rules.html app/views/winners.html
+msgid "Полные правила участия"
+msgstr ""
+
+#: app/views/prizes.html
+msgid "my test"
+msgstr "'my test' translatoon"
+
+#: app/views/rules.html
+msgid "Чтобы получить приз:"
+msgstr ""
+
+#: app/views/rules.html
+msgid "Купи батончик"
+msgstr ""
+
+#: app/views/rules.html
+msgid "в специальной"
+msgstr ""
+
+#: app/views/rules.html
+msgid "промо-упаковке"
+msgstr ""
+
+#: app/views/rules.html
+msgid "Найди код"
+msgstr ""
+
+#: app/views/rules.html
+msgid "внутри"
+msgstr ""
+
+#: app/views/rules.html
+msgid "упаковки"
+msgstr ""
+
+#: app/views/rules.html
+#, fuzzy
+msgid "Зарегистрируй код на сайте"
+msgstr "Register code"
+
+#: app/views/winners.html
+msgid "Победители ежедневных розыгрышей"
+msgstr ""
+
+#: app/views/winners.html
+msgid "Победители еженедельных розыгрышей"
+msgstr ""
+
+#: app/views/winners.html
+msgid "Обладатели футболок"
+msgstr ""
+
+#: app/views/vref/Winners.html
+msgid "Дата"
+msgstr ""
+
+#: app/views/vref/Winners.html
+msgid "Приз"
+msgstr ""
+
+#: app/views/vref/login.html
+msgid "Введите свой email"
+msgstr ""
+
+#: app/views/vref/login.html app/views/vref/registration.html
+msgid "Ошибка:"
+msgstr ""
+
+#: app/views/vref/login.html app/views/vref/registration.html
+msgid "Введите свой email."
+msgstr ""
+
+#: app/views/vref/login.html app/views/vref/registration.html
+msgid "Нелегитимный email address."
+msgstr ""
+
+#: app/views/vref/login.html
+msgid "Под данным адресом будут регистрироваться ваши коды"
+msgstr ""
+
+#: app/views/vref/login.html
+msgid "Войти"
+msgstr ""
+
+#: app/views/vref/recaptcha.html
+msgid "Неверно введен текст проверки. Попробуйте еще раз."
+msgstr ""
+
+#: app/views/vref/recaptcha.html
+msgid "Отправить"
+msgstr ""
+
+#: app/views/vref/registration.html
+#, fuzzy
+msgid "Зарегистрируйтесь для участия в акции"
+msgstr "Register code"
+
+#: app/views/vref/registration.html
+msgid ""
+"На этот адрес вам придет письмо со ссылкой. Вы должны будете на нее "
+"кликнуть, что бы\t\t\tподтвердить что являетесь владельцем этого адреса."
+msgstr ""
+
+#: app/views/vref/registration.html
+msgid ""
+"Ваш e-mail, это логин в акции, чтобы регистрировать коды и смотреть статус"
+msgstr ""
+
+#: app/views/vref/registration.html
+msgid "*Имя"
+msgstr ""
+
+#: app/views/vref/registration.html
+msgid "Введите свое имя."
+msgstr ""
+
+#: app/views/vref/registration.html
+msgid "*Телефон"
+msgstr ""
+
+#: app/views/vref/registration.html
+msgid "Введите телефон."
+msgstr ""
+
+#: app/views/vref/registration.html
+msgid "Возраст"
+msgstr ""
+
+#: app/views/vref/registration.html
+msgid "Пол"
+msgstr ""
+
+#: app/views/vref/registration.html
+msgid "муж"
+msgstr ""
+
+#: app/views/vref/registration.html
+msgid "жен"
+msgstr ""
+
+#: app/views/vref/registration.html
+msgid "* - Поля обязательные для заполнения"
+msgstr ""
+
+#: app/views/vref/registration.html
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; Контакты нужны для связи в случае выигрыша"
+msgstr ""
+
+#: app/views/vref/registration.html
+msgid "Сохранить"
+msgstr ""
+
+#: app/views/vref/status.html
+msgid "сменить email"
+msgstr ""
+
+#: app/views/vref/status.html
+msgid "Ваш код принят"
+msgstr ""
+
+#: app/views/vref/status.html
+msgid "Вы участвуете в розыгрыше."
+msgstr ""
+
+#: app/views/vref/status.html
+msgid "Введите следующий код:"
+msgstr ""
+
+#: app/views/vref/status.html
+msgid "Введите код с упаковки:"
+msgstr ""
+
+#: app/views/vref/status.html
+msgid "Ошибка. Проверьте правильность вводимого кода."
+msgstr ""
+
+#: app/views/vref/status.html
+msgid "Уникальный код находится внутри пачки с состоит из 10 символов."
+msgstr ""
+
+#: app/views/vref/status.html
+msgid "Ваш статус:"
+msgstr ""
+
+#: app/views/vref/status.html
+msgid "Всего Промокодов:"
+msgstr ""
+
+#: app/views/vref/status.html
+msgid "Вы выиграли призы:"
+msgstr ""
+
+#: app/views/vref/status.html
+msgid "Друзей, принесших вам прокода:"
+msgstr ""
+
+#: app/views/vref/status.html
+msgid "У вас пока нет приглашенных друзей"
+msgstr ""
+
+#: app/views/vref/status.html
+msgid "Ваш e-mail еще не подтвержден"
+msgstr ""
+
+#: app/views/vref/status.html
+msgid "Отправить ссылку для подтверждения e-mail"
+msgstr ""
+
+#: app/views/vref/status.html
+msgid "Пригласи друзей и получи код в подарок!"
+msgstr ""
+
+#: app/views/vref/status.html
+msgid "Пригласи через"
+msgstr ""
+
+#: app/views/vref/status.html
+msgid "Или через персональную ссылку:"
+msgstr ""
+
+#: app/views/vref/status.html
+msgid ""
+"Ваша ссылка для приглашения друзей. Отправьте ее почтой, поместите на своею "
+"стену в социальную сеть. Если ваши друзья перейдут по этой ссылке и "
+"зарегистрируют один промокод, то вы получите так-же один промокод к себе на "
+"\"счет\". Этот промокод участвует в розыгрыше призов так-же как и код с "
+"батона."
+msgstr ""
+
+#: app/views/vref/status.html
+msgid "Скопируй и вышли ссылку почтой или помести на стену в социальной сети"
+msgstr ""
+
+#: app/views/vref/status.html
+msgid "1. Распространите персональную ссылку среди друзей!"
+msgstr ""
+
+#: app/views/vref/status.html
+msgid "2. Друзья должны перейти по этой ссылке и зарегистрировать код."
+msgstr ""
+
+#: app/views/vref/status.html
+msgid "3. Вы получаете один код в подарок за каждого друга."
+msgstr ""
+
+#: app/views/vref/status.html
+msgid "Для получения кода в подарок, вам необходимо подтвердить свой e-mail."
+msgstr ""
+
+#: app/scripts/controllers/app.js
+msgid "Правила"
+msgstr ""
+
+#: app/scripts/controllers/app.js
+msgid "Призы"
+msgstr ""
+
+#: app/scripts/controllers/app.js
+msgid "Победители"
+msgstr ""
+
+#: app/scripts/controllers/prizes.js
+msgid "ipad"
+msgstr ""
+
+#: app/scripts/controllers/prizes.js
+msgid "Бензин"
+msgstr ""
+
+#: app/scripts/controllers/prizes.js
+msgid "snickers"
+msgstr ""
+
+#: app/scripts/controllers/prizes.js
+msgid "Футболка"
+msgstr ""
