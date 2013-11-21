@@ -5,7 +5,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: snickers\n"
 "POT-Creation-Date: \n"
+<<<<<<< HEAD:for_use_snickers_templatepot_az.po
 "PO-Revision-Date: 2013-11-21 14:45+0300\n"
+=======
+"PO-Revision-Date: 2013-11-21 14:38+0300\n"
+>>>>>>> ff96d374402a1b1f90b92d6626caf5f68bc3d942:for_use_snickers_templatepot_az.po
 "Last-Translator: sup.bdrd <sup.bdrd@gmail.com>\n"
 "Language-Team: Azerbaijani (http://www.transifex.com/projects/p/snickers/"
 "language/az/)\n"
@@ -388,3 +392,15 @@ msgstr ""
 #: app/scripts/controllers/prizes.js
 msgid "ФУТБОЛКА"
 msgstr ""
+
+#~ msgid "ipad"
+#~ msgstr "Planşet"
+
+#~ msgid "Бензин"
+#~ msgstr "İllik benzin ehtiyatı"
+
+#~ msgid "snickers"
+#~ msgstr "Baton şouboksu"
+
+#~ msgid "Футболка"
+#~ msgstr "Futbolka"
