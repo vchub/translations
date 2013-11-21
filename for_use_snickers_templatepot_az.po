@@ -3,11 +3,11 @@
 # sup.bdrd <sup.bdrd@gmail.com>, 2013
 msgid ""
 msgstr ""
-"Project-Id-Version: snickers-az\n"
+"Project-Id-Version: snickers\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-11-19 20:32+0300\n"
+"PO-Revision-Date: 2013-11-21 14:38+0300\n"
 "Last-Translator: sup.bdrd <sup.bdrd@gmail.com>\n"
-"Language-Team: Azerbaijani (http://www.transifex.com/projects/p/snickers-az/"
+"Language-Team: Azerbaijani (http://www.transifex.com/projects/p/snickers/"
 "language/az/)\n"
 "Language: az\n"
 "MIME-Version: 1.0\n"
@@ -18,123 +18,126 @@ msgstr ""
 
 #: app/index.html app/scripts/controllers/app.js
 msgid "Главная"
-msgstr ""
+msgstr "Baş səhifə"
 
 #: app/index.html
 msgid "Вопросы"
-msgstr "questions"
+msgstr "Suallar"
 
 #: app/index.html app/views/main.html app/views/rules.html
 #: app/views/vref/status.html
 msgid "Зарегистрировать код"
-msgstr "Register code"
+msgstr "Kodu qeydiyyatdan keçir"
 
 #: app/index.html
 msgid "Поделиться:"
-msgstr ""
+msgstr "Paylaş:"
 
 #: app/index.html
 msgid "Срок проведения лотереи: с 1 декабря 2013 г. по 31 января 2014 г."
 msgstr ""
+"Lotereyanın keçirilmə müddəti: 1 dekabr 2013-cü il tarixindən 31 yanvar 2014-"
+"cü il tarixinədək."
 
 #: app/index.html
 msgid ""
 "Информацию по лотерее Вы можете узнать по телефону горячей линии "
 "(994)-555-058-058"
 msgstr ""
+"Lotereya haqqında məlumatı qaynar xətt vasitəsilə almaq olar (994) 555 058 "
+"058 "
 
 #: app/index.html
 msgid "(звонок платный на всей территории Азербайджанской Республики)"
-msgstr ""
+msgstr "(zənglər Azərbaycan Respublikasının bütün ərazisində ödənişlidir)"
 
 #: app/index.html
 msgid "Обратная связь"
-msgstr ""
+msgstr "Əks əlaqə"
 
 #: app/index.html
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 #: app/index.html
 msgid "Юридические вопросы"
-msgstr ""
+msgstr "Hüquqi məsələlər"
 
 #: app/index.html
 msgid "Политика конфиденциальности"
-msgstr ""
+msgstr "Məxfilik siyasəti"
 
 #: app/index.html
 msgid "Компания MARS в СНГ"
-msgstr ""
+msgstr "MDB üzrə MARS şirkəti"
 
 #: app/views/contactus.html
 msgid "Фамилия"
-msgstr ""
+msgstr "Soyadı"
 
 #: app/views/contactus.html app/views/vref/Winners.html
 msgid "Имя"
-msgstr ""
+msgstr "Adı"
 
 #: app/views/contactus.html
 msgid "Мобильный телефон, по которому с вами можно связаться"
-msgstr ""
+msgstr "Mobil telefonu "
 
 #: app/views/contactus.html
 msgid ""
 "(пожалуйста, отправляйте вопросы с электронного адреса, который "
 "регистрировали в лотерее)"
 msgstr ""
+"(xahiş edirik, suallarınızı lotereyada qeyd etdiyiniz elektron ünvandan "
+"göndərin)"
 
 #: app/views/contactus.html
-#, fuzzy
 msgid "Ваш вопрос"
-msgstr "questions"
+msgstr "Sənin sualın"
 
 #: app/views/main.html
-#, fuzzy
 msgid "Количество зарегистрированных кодов"
-msgstr "Register code"
+msgstr "Qeydiyyatdan keçmiş kodların sayı"
 
 #: app/views/prizes.html app/views/rules.html app/views/winners.html
 msgid "Полные правила участия"
-msgstr ""
+msgstr "İştirakın tam qaydaları"
 
 #: app/views/prizes.html
 msgid "my test"
-msgstr "'my test' translatoon"
+msgstr ""
 
 #: app/views/rules.html
 msgid "Чтобы получить приз:"
-msgstr ""
+msgstr "Prizi almaq üçün:"
 
 #: app/views/rules.html
 msgid "Купи батончик"
-msgstr ""
+msgstr "Xüsusi"
 
 #: app/views/rules.html
 msgid "в специальной"
-msgstr ""
+msgstr "promo-qablaşdırmada olan"
 
 #: app/views/rules.html
 msgid "промо-упаковке"
-msgstr ""
+msgstr "batonu al"
 
 #: app/views/rules.html
 msgid "Найди код"
-msgstr ""
+msgstr "Qablaşdırmanın "
 
 #: app/views/rules.html
 msgid "внутри"
-msgstr ""
+msgstr "içindəki"
 
 #: app/views/rules.html
 msgid "упаковки"
-msgstr ""
+msgstr "kodu tap"
 
 #: app/views/rules.html
-#, fuzzy
 msgid "Зарегистрируй код на сайте"
-msgstr "Register code"
+msgstr "3.\tKodu saytda qeydiyyatdan keçir"
 
 #: app/views/winners.html
 msgid "Победители ежедневных розыгрышей"
@@ -142,31 +145,31 @@ msgstr ""
 
 #: app/views/winners.html
 msgid "Победители еженедельных розыгрышей"
-msgstr ""
+msgstr "Həftəlik prizlərin qalibləri"
 
 #: app/views/winners.html
 msgid "Обладатели футболок"
-msgstr ""
+msgstr "Futbolkaların sahibləri"
 
 #: app/views/vref/Winners.html
 msgid "Дата"
-msgstr ""
+msgstr "Tarix"
 
 #: app/views/vref/Winners.html
 msgid "Приз"
-msgstr ""
+msgstr "Priz"
 
 #: app/views/vref/login.html
 msgid "Введите свой email"
-msgstr ""
+msgstr "Е-mail-inizi daxil edin  "
 
 #: app/views/vref/login.html app/views/vref/registration.html
 msgid "Ошибка:"
-msgstr ""
+msgstr "Xəta:"
 
 #: app/views/vref/login.html app/views/vref/registration.html
 msgid "Введите свой email."
-msgstr ""
+msgstr "Е-mail-inizi daxil edin  "
 
 #: app/views/vref/login.html app/views/vref/registration.html
 msgid "Нелегитимный email address."
@@ -174,201 +177,226 @@ msgstr ""
 
 #: app/views/vref/login.html
 msgid "Под данным адресом будут регистрироваться ваши коды"
-msgstr ""
+msgstr "Kodlarınız bu ünvanla qeydiyyatdan keçiriləcəklər"
 
 #: app/views/vref/login.html
 msgid "Войти"
-msgstr ""
+msgstr "Daxil ol"
 
 #: app/views/vref/recaptcha.html
 msgid "Неверно введен текст проверки. Попробуйте еще раз."
-msgstr ""
+msgstr "Yoxlama mətni səhv daxil edilmişdir. Bir daha sınayın."
 
 #: app/views/vref/recaptcha.html
 msgid "Отправить"
-msgstr ""
+msgstr "Göndər"
 
 #: app/views/vref/registration.html
-#, fuzzy
 msgid "Зарегистрируйтесь для участия в акции"
-msgstr "Register code"
+msgstr "Aksiyada iştirak üçün qeydiyyatda keçin"
 
 #: app/views/vref/registration.html
 msgid ""
 "На этот адрес вам придет письмо со ссылкой. Вы должны будете на нее "
 "кликнуть, что бы\t\t\tподтвердить что являетесь владельцем этого адреса."
 msgstr ""
+"Sizə həmin ünvana olan linki göndərmişik, ünvanınızı təsdiq etmək üçün ona "
+"tıklamalısınız "
 
 #: app/views/vref/registration.html
 msgid ""
 "Ваш e-mail, это логин в акции, чтобы регистрировать коды и смотреть статус"
 msgstr ""
+"E-mail-iniz, kodları keydiyyatdan keçirmək və statusa baxmaq üçün aksiyadakı "
+"logindir"
 
 #: app/views/vref/registration.html
 msgid "*Имя"
-msgstr ""
+msgstr "Adı"
 
 #: app/views/vref/registration.html
 msgid "Введите свое имя."
-msgstr ""
+msgstr "Adınızı daxil edin"
 
 #: app/views/vref/registration.html
 msgid "*Телефон"
-msgstr ""
+msgstr "Mobil telefon nömrəsi"
 
 #: app/views/vref/registration.html
 msgid "Введите телефон."
-msgstr ""
+msgstr "Telefonunuzu daxil edin"
 
 #: app/views/vref/registration.html
 msgid "Возраст"
-msgstr ""
+msgstr "Yaş"
 
 #: app/views/vref/registration.html
 msgid "Пол"
-msgstr ""
+msgstr "Cins"
 
 #: app/views/vref/registration.html
 msgid "муж"
-msgstr ""
+msgstr "Q"
 
 #: app/views/vref/registration.html
 msgid "жен"
-msgstr ""
+msgstr "K"
 
 #: app/views/vref/registration.html
 msgid "* - Поля обязательные для заполнения"
-msgstr ""
+msgstr "*-Mütləq doldurulmalı olan xanalar"
 
 #: app/views/vref/registration.html
 msgid "&nbsp;&nbsp;&nbsp;&nbsp; Контакты нужны для связи в случае выигрыша"
-msgstr ""
+msgstr "Əlaqə məlumatı uduş zamanı əlaqə qurmaq üçün lazım olur"
 
 #: app/views/vref/registration.html
 msgid "Сохранить"
-msgstr ""
+msgstr "Yadda saxla"
 
 #: app/views/vref/status.html
 msgid "сменить email"
-msgstr ""
+msgstr "E-mail-i dəyişdir"
 
 #: app/views/vref/status.html
 msgid "Ваш код принят"
-msgstr ""
+msgstr "Kodunuz qəbul edildi"
 
 #: app/views/vref/status.html
 msgid "Вы участвуете в розыгрыше."
-msgstr ""
+msgstr "Siz oyunda iştirak edirsiniz!"
 
 #: app/views/vref/status.html
 msgid "Введите следующий код:"
-msgstr ""
+msgstr "Əlavə bir kod da daxil edə bilərsiniz:"
 
 #: app/views/vref/status.html
 msgid "Введите код с упаковки:"
-msgstr ""
+msgstr "Qablaşdırmanın üzərindəki kodu daxil edin:"
 
 #: app/views/vref/status.html
 msgid "Ошибка. Проверьте правильность вводимого кода."
-msgstr ""
+msgstr "Xəta. Daxil edilən kodun düzgünlüyünü yoxlayın."
 
 #: app/views/vref/status.html
 msgid "Уникальный код находится внутри пачки с состоит из 10 символов."
-msgstr ""
+msgstr "Unikal kod paçkanın içindədir və 10 işarədən ibarətdir. "
 
 #: app/views/vref/status.html
 msgid "Ваш статус:"
-msgstr ""
+msgstr "Statusunuz:"
 
 #: app/views/vref/status.html
 msgid "Всего Промокодов:"
-msgstr ""
+msgstr "Sizin kodlarınız"
 
 #: app/views/vref/status.html
 msgid "Вы выиграли призы:"
-msgstr ""
+msgstr "Prizləriniz"
 
 #: app/views/vref/status.html
 msgid "Друзей, принесших вам прокода:"
-msgstr ""
+msgstr "Dostların kodları"
 
 #: app/views/vref/status.html
 msgid "У вас пока нет приглашенных друзей"
-msgstr ""
+msgstr "Hələ dəvət edilmiş dostlarınız yoxdur"
 
 #: app/views/vref/status.html
 msgid "Ваш e-mail еще не подтвержден"
-msgstr ""
+msgstr "E-mail-iniz hələ təsdiq edilməyib"
 
 #: app/views/vref/status.html
 msgid "Отправить ссылку для подтверждения e-mail"
-msgstr ""
+msgstr "təsdiq üçün linki göndərin"
 
 #: app/views/vref/status.html
 msgid "Пригласи друзей и получи код в подарок!"
-msgstr ""
+msgstr "Dostlarını dəvət et və kodu hədiyyə al!"
 
 #: app/views/vref/status.html
 msgid "Пригласи через"
-msgstr ""
+msgstr "____________vasitəsilə"
 
 #: app/views/vref/status.html
 msgid "Или через персональную ссылку:"
-msgstr ""
+msgstr "Və ya fərdi link vasitəsilə dəvət et"
 
 #: app/views/vref/status.html
+msgid "Скопируйте ссылку из поля ниже:"
+msgstr "Aşağıdakı xananın linkini qeyd edin:"
+
+#: app/views/vref/status.html
+#, fuzzy
 msgid ""
-"Ваша ссылка для приглашения друзей. Отправьте ее почтой, поместите на своею "
-"стену в социальную сеть. Если ваши друзья перейдут по этой ссылке и "
+"Это Ваша ссылка для приглашения друзей. Отправьте ее почтой, поместите на "
+"своею стену в социальную сеть. Если ваши друзья перейдут по этой ссылке и "
 "зарегистрируют один промокод, то вы получите так-же один промокод к себе на "
 "\"счет\". Этот промокод участвует в розыгрыше призов так-же как и код с "
 "батона."
 msgstr ""
+"Dostlarınızı dəvət etmək üçün linkiniz. Onu poçtla göndərin, sosial şəbəkədə "
+"divarınıza yerləşdirin. Dostlarınız həmin liklə keçib bir promokodu "
+"qeydiyyatdan keçdikdə siz öz “hesabınıza” bir promokod alacaqsınız. Həmin "
+"promokod batondan götürdüyünüz kod kimi prizlərin oynanılmasında iştirak "
+"edir."
 
 #: app/views/vref/status.html
 msgid "Скопируй и вышли ссылку почтой или помести на стену в социальной сети"
-msgstr ""
+msgstr "Linki poçtla göndər və ya sosial şəbəkədə divara yerləşdir"
 
 #: app/views/vref/status.html
 msgid "1. Распространите персональную ссылку среди друзей!"
-msgstr ""
+msgstr "1.\tFərdi linki dostlarınız arasında yayın"
 
 #: app/views/vref/status.html
 msgid "2. Друзья должны перейти по этой ссылке и зарегистрировать код."
-msgstr ""
+msgstr "2. Dostlarınız həmin linkə keçib kodu qeydiyyatdan keçirməlidirlər"
 
 #: app/views/vref/status.html
 msgid "3. Вы получаете один код в подарок за каждого друга."
-msgstr ""
+msgstr "3. Siz hər dostunuza görə bir kod alırsını"
 
 #: app/views/vref/status.html
 msgid "Для получения кода в подарок, вам необходимо подтвердить свой e-mail."
-msgstr ""
+msgstr "Kodu hədiyyə almaq üçün e-mail-i təsdiqləməlisiniz"
 
 #: app/scripts/controllers/app.js
 msgid "Правила"
-msgstr ""
+msgstr "Qaydalar"
 
 #: app/scripts/controllers/app.js
 msgid "Призы"
-msgstr ""
+msgstr "Prizlər"
 
 #: app/scripts/controllers/app.js
 msgid "Победители"
+msgstr "Qaliblər"
+
+#: app/scripts/controllers/prizes.js
+msgid "ПЛАНШЕТНИК"
 msgstr ""
 
 #: app/scripts/controllers/prizes.js
-msgid "ipad"
+msgid "ГОДОВОЙ ЗАПАС БЕНЗИНА"
 msgstr ""
 
 #: app/scripts/controllers/prizes.js
-msgid "Бензин"
+msgid "ШОУБОКС БАТОНЧИКОВ"
 msgstr ""
 
 #: app/scripts/controllers/prizes.js
-msgid "snickers"
+msgid "ФУТБОЛКА"
 msgstr ""
 
-#: app/scripts/controllers/prizes.js
-msgid "Футболка"
-msgstr ""
+#~ msgid "ipad"
+#~ msgstr "Planşet"
+
+#~ msgid "Бензин"
+#~ msgstr "İllik benzin ehtiyatı"
+
+#~ msgid "snickers"
+#~ msgstr "Baton şouboksu"
+
+#~ msgid "Футболка"
+#~ msgstr "Futbolka"
